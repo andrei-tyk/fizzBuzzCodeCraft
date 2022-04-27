@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzzcodecraft",
+  "version": "1.0.0",
+  "description": "FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collect-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei-tyk/fizzBuzzCodeCraft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrei-tyk/fizzBuzzCodeCraft/issues"
+  },
+  "homepage": "https://github.com/andrei-tyk/fizzBuzzCodeCraft#readme",
+  "dependencies": {
+    "jest": "^28.0.2"
+  }
+}
